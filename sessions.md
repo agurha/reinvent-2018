@@ -45,6 +45,24 @@ Be on-call on a rotation basis
 Build guardrails
 Heavily invested in sharing the learnings, patterns and practices
 
+Lessons Learned
+
+1. Ent-wide inclusiveness
+2. Use bets and suspenders
+3. Patters of efficiency
+4. Implement resilence testing
+5. Implement observability
+6. Dont fall into a pattern where pilot team doesnt becomes the sudo devops or SRE team
+7. Iterate quickly
+8. Double down on success
+9. Create template to migrate to cloud for e.g. 
+
+
+Optimizing your serverless applications
+
+
+
+
 
 
 
